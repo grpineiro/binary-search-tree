@@ -1,3 +1,3 @@
 # binary-search-tree
 
-- Clone ou baixe esse repositório e Inicie utilizando o Eclipse.
+- Clone ou baixe esse repositório e inicie utilizando o Eclipse.
